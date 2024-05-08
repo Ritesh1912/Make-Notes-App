@@ -44,10 +44,6 @@ Start the server
 ![Static Badge](https://img.shields.io/badge/HTML--_Text_-you_like-blue?style=for-the-badge&labelColor=purple&color=grey)
 
 
-**Client:** React, Redux 
-
-**Server:** Node, Express
-
 
 ## Usage/Examples
 
